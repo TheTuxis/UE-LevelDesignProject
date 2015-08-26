@@ -1,0 +1,917 @@
+"/Users/pdalmasso/Documents/Unreal Projects/LevelDesignProject/LevelDesignProject.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 6
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 7
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 8
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 9
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 10
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 11
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 12
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 13
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 14
+"../../../Engine/Plugins/Editor/PluginCreator/PluginCreator.uplugin" 15
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 16
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 17
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 18
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 19
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 20
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 21
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 22
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 23
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 24
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 25
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 26
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 27
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 28
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 29
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 30
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 31
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 32
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 33
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 34
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 35
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 36
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 37
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 38
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/IOSFlurry/IOSFlurry.uplugin" 39
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 40
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 41
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 42
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 43
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 44
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 45
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 46
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 47
+"../../../Engine/Plugins/Runtime/LeapMotionController/LeapMotionController.uplugin" 48
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 49
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 50
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 51
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 52
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 53
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 54
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 55
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 56
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 57
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 58
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 59
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 60
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 61
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 62
+"../../../Engine/Content/Internationalization/icudt53l/cnvalias.icu" 63
+"../../../Engine/Content/Internationalization/icudt53l/en_US_POSIX.res" 64
+"../../../Engine/Content/Internationalization/icudt53l/pool.res" 65
+"../../../Engine/Content/Internationalization/icudt53l/en_US.res" 66
+"../../../Engine/Content/Internationalization/icudt53l/en.res" 67
+"../../../Engine/Content/Internationalization/icudt53l/root.res" 68
+"../../../Engine/Content/Internationalization/icudt53l/es_AR.res" 69
+"../../../Engine/Content/Internationalization/icudt53l/es_419.res" 70
+"../../../Engine/Content/Internationalization/icudt53l/es.res" 71
+"/Users/pdalmasso/Library/Application Support/Epic/Epic Games/KeyValueStore.ini" 72
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/Saved/Config/Mac/Manifest.ini" 73
+"../../../Engine/Config/Base.ini" 74
+"../../../Engine/Config/BaseEngine.ini" 75
+"/Users/pdalmasso/Documents/Unreal Projects/LevelDesignProject/Config/DefaultEngine.ini" 76
+"../../../Engine/Config/Mac/MacEngine.ini" 77
+"/Users/pdalmasso/Library/Application Support/Epic/Unreal Engine/Engine/Config/UserEngine.ini" 78
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Engine.ini" 79
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 80
+"../../../Engine/Config/BaseGame.ini" 81
+"/Users/pdalmasso/Documents/Unreal Projects/LevelDesignProject/Config/DefaultGame.ini" 82
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Game.ini" 83
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 84
+"../../../Engine/Config/BaseInput.ini" 85
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Input.ini" 86
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 87
+"../../../Engine/Config/BaseEditor.ini" 88
+"/Users/pdalmasso/Documents/Unreal Projects/LevelDesignProject/Config/DefaultEditor.ini" 89
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Editor.ini" 90
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 91
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 92
+"../../../Engine/Config/Mac/MacEditorPerProjectUserSettings.ini" 93
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/EditorPerProjectUserSettings.ini" 94
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 95
+"../../../Engine/Config/BaseEditorSettings.ini" 96
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/Saved/Config/Mac/EditorSettings.ini" 97
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 98
+"../../../Engine/Config/BaseEditorLayout.ini" 99
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/Saved/Config/Mac/EditorLayout.ini" 100
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 101
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 102
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/Saved/Config/Mac/EditorKeyBindings.ini" 103
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 104
+"../../../Engine/Config/BaseCompat.ini" 105
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Compat.ini" 106
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 107
+"../../../Engine/Config/BaseLightmass.ini" 108
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Lightmass.ini" 109
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 110
+"../../../Engine/Config/BaseScalability.ini" 111
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/Scalability.ini" 112
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 113
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/GameUserSettings.ini" 114
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 115
+"../../../Engine/Config/BaseDeviceProfiles.ini" 116
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/DeviceProfiles.ini" 117
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 118
+"../../../Engine/Config/ConsoleVariables.ini" 119
+"../../../Engine/Content/Internationalization/icudt53l/ja.res" 120
+"../../../Engine/Content/Internationalization/icudt53l/ko.res" 121
+"../../../Engine/Content/Internationalization/icudt53l/pt_BR.res" 122
+"../../../Engine/Content/Internationalization/icudt53l/pt.res" 123
+"../../../Engine/Content/Internationalization/icudt53l/zh_CN.res" 124
+"../../../Engine/Content/Internationalization/icudt53l/zh_Hans_CN.res" 125
+"../../../Engine/Content/Internationalization/icudt53l/zh_Hans.res" 126
+"../../../Engine/Content/Internationalization/icudt53l/zh.res" 127
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/Editor/es/Editor.locres" 128
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/EditorTutorials/es/EditorTutorials.locres" 129
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/Keywords/es/Keywords.locres" 130
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/ToolTips/es/ToolTips.locres" 131
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/PropertyNames/es/PropertyNames.locres" 132
+"/Users/Shared/UnrealEngine/4.8/Engine/Content/Localization/Engine/es/Engine.locres" 133
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 134
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 135
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 136
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 137
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 138
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VertexFactoryCommon.usf" 139
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/Common.usf" 140
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MetalCommon.usf" 141
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderVersion.usf" 142
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/Definitions.usf" 143
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/Random.usf" 144
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 145
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 146
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 147
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LocalVertexFactory.usf" 148
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 149
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 150
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 151
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 152
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 153
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LandscapeVertexFactory.usf" 154
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SlateElementPixelShader.usf" 155
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GammaCorrectionCommon.usf" 156
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MaterialTemplate.usf" 157
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOfFieldCommon.usf" 158
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SpeedTreeCommon.usf" 159
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/AtmosphereCommon.usf" 160
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/EyeAdaptationCommon.usf" 161
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCommon.usf" 162
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredShadingCommon.usf" 163
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightAccumulator.usf" 164
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SlateVertexShader.usf" 165
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSortKeyGen.usf" 166
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleBoundsShader.usf" 167
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 168
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleInjectionShader.usf" 169
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSimulationShader.usf" 170
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 171
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 172
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/UpdateTextureShaders.usf" 173
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 174
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 175
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementPixelShader.usf" 176
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ColorUtils.usf" 177
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/IESLightProfilesCommon.usf" 178
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementVertexShader.usf" 179
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenVertexShader.usf" 180
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenPixelShader.usf" 181
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/NullPixelShader.usf" 182
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/RadixSortShaders.usf" 183
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 184
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LandscapeGrassWeight.usf" 185
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 186
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 187
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 188
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 189
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MeshPaintPixelShader.usf" 190
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MeshPaintVertexShader.usf" 191
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VisualizeTexture.usf" 192
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenSpaceReflections.usf" 193
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BRDF.usf" 194
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MonteCarlo.usf" 195
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 196
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBloom.usf" 197
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/FilterVertexShader.usf" 198
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/FilterPixelShader.usf" 199
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 200
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 201
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/TonemapCommon.usf" 202
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ACES.usf" 203
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/MiniFontCommon.usf" 204
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 205
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessUpscale.usf" 206
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTonemap.usf" 207
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTestImage.usf" 208
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTemporalAA.usf" 209
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 210
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSubsurface.usf" 211
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SeparableSSS.usf" 212
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 213
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 214
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 215
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMotionBlur.usf" 216
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 217
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMobile.usf" 218
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 219
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLensFlares.usf" 220
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLensBlur.usf" 221
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 222
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogram.usf" 223
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHMD.usf" 224
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessGBufferHints.usf" 225
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 226
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessDownsample.usf" 227
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessDOF.usf" 228
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 229
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 230
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBusyWait.usf" 231
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBokehDOF.usf" 232
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/FXAAShader.usf" 233
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/Fxaa3_11.usf" 234
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessPassThrough.usf" 235
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 236
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightingCommon.usf" 237
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DynamicLightingCommon.usf" 238
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVFinalPass.usf" 239
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVCommon.usf" 240
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredDecal.usf" 241
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 242
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessAmbient.usf" 243
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/CubemapCommon.usf" 244
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VelocityShader.usf" 245
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/VelocityCommon.usf" 246
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/Tessellation.usf" 247
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/FlatTessellation.usf" 248
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PNTriangles.usf" 249
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentLightingShaders.usf" 250
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SHCommon.usf" 251
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionCommon.usf" 252
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 253
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionCommon.usf" 254
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 255
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthCommon.usf" 256
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 257
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SurfelTree.usf" 258
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 259
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SurfelMaterialShared.usf" 260
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldAOShared.usf" 261
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 262
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowFilteringCommon.usf" 263
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 264
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 265
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVWriteVplCommon.usf" 266
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVWriteCommon.usf" 267
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 268
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 269
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 270
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 271
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HZBOcclusion.usf" 272
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 273
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HitProxyPixelShader.usf" 274
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HitProxyVertexShader.usf" 275
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 276
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 277
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SkyLightingShared.usf" 278
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 279
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightShaftShader.usf" 280
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 281
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 282
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 283
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVVisualise.usf" 284
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 285
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVDirectLightInject.usf" 286
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVPropagate.usf" 287
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 288
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 289
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 290
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVClearLists.usf" 291
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LPVClear.usf" 292
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightMapDensityShader.usf" 293
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionPixelShader.usf" 294
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionVertexShader.usf" 295
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HeightfieldLighting.usf" 296
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 297
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 298
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GammaCorrection.usf" 299
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/GPUBenchmark.usf" 300
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 301
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 302
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/LightmapCommon.usf" 303
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 304
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogCommon.usf" 305
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogPixelShader.usf" 306
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogVertexShader.usf" 307
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistortAccumulatePS.usf" 308
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistortAccumulateVS.usf" 309
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistortApplyScreenPS.usf" 310
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 311
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/SkyLighting.usf" 312
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 313
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 314
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 315
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldShadowing.usf" 316
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 317
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 318
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 319
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 320
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 321
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ConvertToUniformMesh.usf" 322
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassPixelShader.usf" 323
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassCommon.usf" 324
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ForEachLight.usf" 325
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassVertexShader.usf" 326
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassVertexCommon.usf" 327
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassTessellationShaders.usf" 328
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecompute.usf" 329
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 330
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 331
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/AtmosphericFogShader.usf" 332
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ResolveVertexShader.usf" 333
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ResolvePixelShader.usf" 334
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/OneColorShader.usf" 335
+"/Users/Shared/UnrealEngine/4.8/Engine/Binaries/Mac/../../../Engine/Shaders/ClearReplacementShaders.usf" 336
+"../../../Engine/Config/Android/AndroidEngine.ini" 337
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 338
+"../../../Engine/Config/IOS/IOSEngine.ini" 339
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/DerivedDataCache/Boot.ddc" 340
+"../../../Engine/DerivedDataCache/Compressed.ddp" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 343
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 344
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 345
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 346
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 347
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 348
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 349
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 350
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 352
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 354
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 355
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 361
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 362
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 363
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 365
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 366
+"../../../Engine/Content/Internationalization/icudt53l/numberingSystems.res" 367
+"../../../Engine/Content/Internationalization/icudt53l/curr/supplementalData.res" 368
+"../../../Engine/Content/Internationalization/icudt53l/curr/pool.res" 369
+"../../../Engine/Content/Internationalization/icudt53l/curr/es_AR.res" 370
+"../../../Engine/Content/Internationalization/icudt53l/curr/es.res" 371
+"../../../Engine/Content/Internationalization/icudt53l/curr/root.res" 372
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 373
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 374
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 375
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 376
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 377
+"../../../Engine/Content/EngineResources/Black.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 386
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 389
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 390
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 391
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 392
+"../../../Engine/Content/EngineSounds/Master.uasset" 393
+"../../../Engine/Content/EngineSounds/Music.uasset" 394
+"../../../Engine/Content/EngineSounds/SFX.uasset" 395
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 396
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 397
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 398
+"../../../Engine/Content/EngineSounds/Voice.uasset" 399
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 400
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 401
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 402
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/InternationalizationExport.ini" 403
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 404
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 405
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 406
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 407
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 408
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 409
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 410
+"../../../Engine/Content/Internationalization/icudt53l/coll/ucadata.icu" 411
+"../../../Engine/Content/Internationalization/icudt53l/nfc.nrm" 412
+"../../../Engine/Content/Internationalization/icudt53l/coll/es.res" 413
+"../../../Engine/Content/Internationalization/icudt53l/coll/root.res" 414
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 415
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 416
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 417
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 418
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 419
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 420
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 421
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 422
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 423
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/4.8/Saved/Config/Mac/SourceControlSettings.ini" 424
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 425
+"/Users/pdalmasso/Library/Preferences/Unreal Engine/LevelDesignProjectEditor/Mac/SourceControlSettings.ini" 426
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 427
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 428
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 429
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 430
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 431
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 432
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 433
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 434
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 435
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 436
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 437
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 438
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 439
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Intermediate/CachedAssetRegistry.bin" 440
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/NewWorld.umap" 441
+"/Users/pdalmasso/Documents/Unreal Projects/LevelDesignProject/Saved/Cooked/MacNoEditor/LevelDesignProject/CookedIniVersion.txt" 442
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 443
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 444
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 445
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 446
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 447
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 448
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 449
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 450
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 451
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 452
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 453
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 454
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 455
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 456
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 457
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 458
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 459
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 460
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 461
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 462
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 463
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 464
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 465
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 466
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 467
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 468
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 469
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 470
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 471
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 472
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 473
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 474
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 475
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Maps/Minimal_Default.umap" 476
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 477
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 478
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 479
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 480
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 481
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 482
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 483
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 484
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 485
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 486
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Glass.uasset" 487
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 488
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 489
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 490
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 491
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 492
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 493
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 494
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 495
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Chair_M.uasset" 496
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Chair_N.uasset" 497
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 498
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 499
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 500
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 501
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 502
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 503
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Chair.uasset" 504
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Statue.uasset" 505
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 506
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Statue_M.uasset" 507
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Statue_N.uasset" 508
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 509
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_TableRound.uasset" 510
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 511
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 512
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 513
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/5/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3EFE6B9E9E43A__450E597432A4A0C991296CE02D5A96C74C650769.udd" 514
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/0/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_3EFE6B9E9E43A3D61__1F5698FDF13F29FF968816E2C622E877FCD6FEA4.udd" 515
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 516
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 517
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 518
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 519
+"../../../Engine/Content/Maps/Entry.umap" 520
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 521
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Maps/StarterMap.umap" 522
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 523
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 524
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Fire01.uasset" 525
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Fire.uasset" 526
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 527
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 528
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 529
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 530
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Water_N.uasset" 531
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 532
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 533
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 534
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 535
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 536
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 537
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 538
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Smoke01.uasset" 539
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Smoke.uasset" 540
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 541
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 542
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 543
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Sparks.uasset" 544
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 545
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 546
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 547
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 548
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Steam01.uasset" 549
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 550
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 551
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 552
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 553
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 554
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 555
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 556
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 557
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 559
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 560
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 561
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 562
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 563
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 564
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 565
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 566
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 567
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 568
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 569
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 570
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 571
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 572
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 573
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 574
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 575
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 576
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 577
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 578
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 579
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 580
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 581
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 582
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 583
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 584
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 585
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 586
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 587
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 588
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 589
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 590
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 591
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 592
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 593
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 594
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 595
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 596
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 597
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 598
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 599
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 600
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 601
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 602
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 603
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 604
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 605
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 606
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 607
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 608
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 609
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 610
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 611
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 612
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 613
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 614
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 615
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 616
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 617
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 618
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 619
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 620
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 621
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 622
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 623
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 624
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 625
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 626
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 627
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 628
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 629
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 630
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 631
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 632
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 633
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 634
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 635
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 636
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 637
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 638
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 639
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 640
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 641
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 642
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 643
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 644
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 645
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 646
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 647
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 648
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 649
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 650
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Water_M.uasset" 651
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 652
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 653
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 654
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 655
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 656
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 657
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 658
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 659
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 660
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 661
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 662
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 663
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 664
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 665
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 666
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 667
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 668
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 669
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 670
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Collapse01.uasset" 671
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Collapse02.uasset" 672
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 673
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Starter_Music01.uasset" 674
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 675
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 676
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 677
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/MaterialSphere.uasset" 678
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 679
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 680
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Frame_M.uasset" 681
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Frame_N.uasset" 682
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 683
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 684
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 685
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 686
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 687
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 688
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 689
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 690
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 691
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Light02_Cue.uasset" 692
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Light02.uasset" 693
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Light01_Cue.uasset" 694
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Light01.uasset" 695
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 696
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Explosion01.uasset" 697
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Audio/Explosion02.uasset" 698
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 699
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 700
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 701
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 702
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 703
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/SM_FloorPiece500x500.uasset" 704
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/SM_CeilingPiece500x500.uasset" 705
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 706
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 707
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Detail_N.uasset" 708
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_02_N.uasset" 709
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_02_D.uasset" 710
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_01_N.uasset" 711
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_01_D.uasset" 712
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Gravel_N.uasset" 713
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Gravel_D.uasset" 714
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 715
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 716
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 717
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 718
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 719
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 720
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 721
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 722
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 723
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 724
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 725
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 726
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/P_Explosion.uasset" 727
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 728
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Burst_M.uasset" 729
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 730
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 731
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 732
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 733
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 734
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Floor01_N.uasset" 735
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Floor01.uasset" 736
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_D.uasset" 737
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_01_N.uasset" 738
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_01_D.uasset" 739
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete01_N.uasset" 740
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete01_D.uasset" 741
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Rock.uasset" 742
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 743
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 744
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 745
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 746
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 747
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 748
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Door.uasset" 749
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Door.uasset" 750
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Door_M.uasset" 751
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Door_N.uasset" 752
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Couch.uasset" 753
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Bush.uasset" 754
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 755
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Bush_D.uasset" 756
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Bush_N.uasset" 757
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 758
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_07_D.uasset" 759
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_06_N.uasset" 760
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_06_D.uasset" 761
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_05_N.uasset" 762
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_05_D.uasset" 763
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_03_N.uasset" 764
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_03_D.uasset" 765
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_01_N.uasset" 766
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_01_D.uasset" 767
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 768
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 769
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 770
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 771
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 772
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 773
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 774
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 775
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 776
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 777
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 778
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Stairs.uasset" 779
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Props/SM_Shelf.uasset" 780
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_09_D.uasset" 781
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_08_N.uasset" 782
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_08_D.uasset" 783
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_07b_D.uasset" 784
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_07_N.uasset" 785
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_PatchyGrass_N.uasset" 786
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_PatchyGrass_D.uasset" 787
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_PaintedMetal01_N.uasset" 788
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_PaintedMetal01.uasset" 789
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Paint_Metal_Rust_N.uasset" 790
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Paint_Metal_Rust_D.uasset" 791
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 792
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 793
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 794
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 795
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Dirt_N.uasset" 796
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Dirt_D.uasset" 797
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_07_N.uasset" 798
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_07.uasset" 799
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_06_N.uasset" 800
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_06.uasset" 801
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base04_N.uasset" 802
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base04_D.uasset" 803
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base02_N.uasset" 804
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Generic_Concrete_Base02.uasset" 805
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Detail_02_N.uasset" 806
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Detail_02_D.uasset" 807
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Dirt_D.uasset" 808
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 809
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/Metal_Tile_2_N.uasset" 810
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/Metal_Tile_2.uasset" 811
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 812
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 813
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 814
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 815
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 816
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 817
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 818
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 819
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 820
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 821
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 822
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_10_N.uasset" 823
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_10_D.uasset" 824
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_UNV_Concrete02.uasset" 825
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Underground_Base_Pipe_N.uasset" 826
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Underground_Base_Pipe_D.uasset" 827
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 828
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rocky_01_N.uasset" 829
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 830
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 831
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1E6FCDFA4E41561DB5CD1AAAE17C729F__1_0_13107_0.udd" 832
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7115A60FE5464BA07A1ED29A648D07AD__1_0_13107_0.udd" 833
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F67ABC4B3A4AC6F119D96CA1D4955A7C__1_0_13107_0.udd" 834
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_41A357D18E4793AD1DF5919F0BD6ACD6__1_0_13107_0.udd" 835
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/9/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_381522A44A42C917F7AD32915BF3A453__1_0_13107_0.udd" 836
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_082F9369D14FED6DF395559ACC832__1979EF3051776AF238005D35B4B1DF9D70AD0741.udd" 837
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_082F9369D14FED6DF395559ACC832__A67FBB5B1FEEF02EDD5234F1A687D55514D68C00.udd" 838
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_082F9369D14FED6DF395559ACC832__9B86D89AF8861F6EB30101DE1D405284473B1C66.udd" 839
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_082F9369D14FED6DF395559ACC832__0A3A6567BDC6EF4A034DDD687FB75D5F7BD69F6B.udd" 840
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_066A62830347B81D4C862EBFF7D73__50FA0BA733EC7D253D6CBAAB7A7D9DF350288B65.udd" 841
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_066A62830347B81D4C862EBFF7D73__BA7C1E1D4757E68FF493AAA2235C0AD737B64945.udd" 842
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_066A62830347B81D4C862EBFF7D73__BE13F48096FC88F6C673341A0ED73BBDB3F34B2C.udd" 843
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_066A62830347B81D4C862EBFF7D73__330F3B7702E3D49E0123B80D813CB7E741A01254.udd" 844
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_066A62830347B81D4C862EBFF7D73__82EB308D639D39AC452CB643A558067896726E31.udd" 845
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3ADC9E750B4CA325AE956CB3392589C1__03D5FB4FD76B4A87978A31BE1A288FEEC24790FC.udd" 846
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3ADC9E750B4CA325AE956CB3392589C1__AB7C97A52B9D66F1A48BAF9CF7F78ED9C08B7DBF.udd" 847
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3ADC9E750B4CA325AE956CB3392589C1__C82E4174FEFE9CF92B0917166B672DC081AA035C.udd" 848
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3ADC9E750B4CA325AE956CB3392589C1__8804369B7D1CC32F9EF5D635A1947541A7FADCF0.udd" 849
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_795DEC2F254304639C2611A68C917B61__3B354DBCFA958D466EA23B8320AFC0B5DF6F8905.udd" 850
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_795DEC2F254304639C2611A68C917B61__AF4B91527E1CD7583F4F895A66D0CBD5E8431A17.udd" 851
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_795DEC2F254304639C2611A68C917B61__6E831DF40F0143C8659A1CF26BD337ADCBBE650D.udd" 852
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_795DEC2F254304639C2611A68C917B61__FE2F2EEF426FA7CC0FC65DDFC313320EF7B39306.udd" 853
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_795DEC2F254304639C2611A68C917B61__824B24E9091D465DBCC28B81C9696B3505B774FF.udd" 854
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_90C3AC05A14E73D97AA357B914F3A76__07622405BF08E9C6A883718244D5EFB9DC1FE125.udd" 855
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_90C3AC05A14E73D97AA357B914F3A76__B03D244A053F3D528CBE64115D9DE75EA7A6BCC7.udd" 856
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_90C3AC05A14E73D97AA357B914F3A76__459BBD9B47B989ED501FE3B2DEC3241C255706A0.udd" 857
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_90C3AC05A14E73D97AA357B914F3A76__23AAFC96173E67410CDBD080B2F172C9A69CAC7B.udd" 858
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_90C3AC05A14E73D97AA357B914F3A76__B772F0B08FADE946044855EF28257D667E009A01.udd" 859
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E9BDB5012443D45AABECB380BBE4C42__FE6A9753FBBEEC9C47CD771228D84446F6CC7A85.udd" 860
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E9BDB5012443D45AABECB380BBE4C42__0C00D2C7960FA7DBD2B720BFFE501001CB5FD8B3.udd" 861
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E9BDB5012443D45AABECB380BBE4C42__9E1B02B78B7B251720D86E98EBEB9C53E5E9C73C.udd" 862
+"/Users/pdalmasso/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E9BDB5012443D45AABECB380BBE4C42__D88EF464E7B442647AA4256DBE51F729148AB2A7.udd" 863
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Scuffed_D.uasset" 864
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 865
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_UNV_Concrete02_N.uasset" 866
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 867
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_White_Painted_Metal_D.uasset" 868
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Metal03_N.uasset" 869
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Metal03_D.uasset" 870
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Metal01_N.uasset" 871
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Metal01_D.uasset" 872
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_a_d.uasset" 873
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_White_Painted_Metal_N.uasset" 874
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_ArmorMetal01.uasset" 875
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/Sky54a2048LDR.uasset" 876
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/Sky54a2048.uasset" 877
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 878
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_DesertCrystal01_N.uasset" 879
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Wall_N.uasset" 880
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Wall_D.uasset" 881
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Wall07_N.uasset" 882
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_Wall07.uasset" 883
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Stone_Brick_D.uasset" 884
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 885
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Bark02_D.uasset" 886
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_ArmorMetal01_N.uasset" 887
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 888
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 889
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Cliff_M.uasset" 890
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Base_Metal_Gray_D.uasset" 891
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Bark02_N.uasset" 892
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Sky_Stars.uasset" 893
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Sky_Clouds_M.uasset" 894
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Base_Metal_Gray_N.uasset" 895
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Cliff_N.uasset" 896
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Painted_04_D.uasset" 897
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_N.uasset" 898
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_E.uasset" 899
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Stone_Brick_N.uasset" 900
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Cobble_01_H.uasset" 901
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Rust_01_D.uasset" 902
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Painted_04_N.uasset" 903
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_A_S.uasset" 904
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Wood_A_N.uasset" 905
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_04_R.uasset" 906
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_04_N.uasset" 907
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_04_D.uasset" 908
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleDark_01_D.uasset" 909
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Dirt_N.uasset" 910
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_CobbleStone_04b_D.uasset" 911
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Scuffed_N.uasset" 912
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Metal_Rust_01_N.uasset" 913
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Ground_Noise_N.uasset" 914
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_11b_D.uasset" 915
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Concrete_N.uasset" 916
+"../../../../../../pdalmasso/Documents/Unreal Projects/LevelDesignProject/Content/StarterContent/Textures/T_Rock_Detail_03_D.uasset" 917
